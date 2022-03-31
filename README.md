@@ -1,9 +1,6 @@
-# CodeCampGitHub
-## Esta es la descripcion blablabla
-Esto es texto comun
+# Procesamiento de formularios de encuestas
+## Consumibles
+Se consumen los formularios de .pdf en un solo archivo que empaqueta la totalidad de las imagenes escaneadas.
 
-## Subtitulo1
-lasldf
-
-### Subtitulo2
-jdshfakd
+## Procedimiento
+Convertir 
